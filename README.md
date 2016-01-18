@@ -21,11 +21,11 @@ I would like to receive a text such as "Thank you! Your order was placed and wil
 To run the test:
 
 ```
-git clone https://github.com/Mattia46/takeaway-challenge
-gem install bundle
-bundle
+$ git clone https://github.com/Mattia46/takeaway-challenge
+$ gem install bundle
+$ bundle
 ```
 ```
-rspec
+$ rspec
 ```
 
