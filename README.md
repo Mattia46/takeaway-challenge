@@ -1,5 +1,7 @@
-Takeaway Challenge
-==================
+# Takeaway Challenge
+
+Create a Takeaway program that takes in orders from a menu and sends a SMS confirmation to your phone after successfully ordering.
+
 
 ```
 As a customer
@@ -18,7 +20,18 @@ As a customer
 So that I am reassured that my order will be delivered on time
 I would like to receive a text such as "Thank you! Your order was placed and will be delivered before 18:52" after I have ordered
 ```
-To run the test:
+#### Objectives of exercise
+
+Learning Object-Oriented-Programming, using Rubygems and Test-Driven-Development.
+
+
+#### Technologies used:
+
+* Ruby
+* Rspec
+* Twillio
+
+#### To run the test:
 
 ```
 $ git clone https://github.com/Mattia46/takeaway-challenge
