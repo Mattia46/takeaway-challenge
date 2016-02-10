@@ -30,6 +30,7 @@ Learning Object-Oriented-Programming, using Rubygems and Test-Driven-Development
 * Ruby
 * Rspec
 * Twillio
+* Travis
 
 ## To run the test:
 
