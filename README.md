@@ -20,18 +20,18 @@ As a customer
 So that I am reassured that my order will be delivered on time
 I would like to receive a text such as "Thank you! Your order was placed and will be delivered in..
 ```
-#### Objectives of exercise
+## Objectives of exercise
 
 Learning Object-Oriented-Programming, using Rubygems and Test-Driven-Development.
 
 
-#### Technologies used:
+## Technologies used:
 
 * Ruby
 * Rspec
 * Twillio
 
-#### To run the test:
+## To run the test:
 
 ```
 $ git clone https://github.com/Mattia46/takeaway-challenge
